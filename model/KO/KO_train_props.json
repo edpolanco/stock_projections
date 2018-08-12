@@ -1,0 +1,1 @@
+{"ticker": "KO", "test_error": 0.0153, "learn_rate": 0.01, "dropout": 0.25, "epoch": 200, "train_error": 0.0084, "window_size": 5}

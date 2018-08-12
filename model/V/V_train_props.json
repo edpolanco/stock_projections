@@ -1,0 +1,1 @@
+{"ticker": "V", "test_error": 0.017, "learn_rate": 0.01, "dropout": 0.25, "epoch": 200, "train_error": 0.0023, "window_size": 10}

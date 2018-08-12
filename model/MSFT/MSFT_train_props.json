@@ -1,0 +1,1 @@
+{"ticker": "MSFT", "test_error": 0.0062, "learn_rate": 0.01, "dropout": 0.25, "epoch": 100, "train_error": 0.009, "window_size": 10}

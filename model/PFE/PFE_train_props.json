@@ -1,0 +1,1 @@
+{"ticker": "PFE", "test_error": 0.009, "learn_rate": 0.001, "dropout": 0.25, "epoch": 100, "train_error": 0.0126, "window_size": 7}

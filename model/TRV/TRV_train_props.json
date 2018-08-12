@@ -1,0 +1,1 @@
+{"ticker": "TRV", "test_error": 0.0065, "learn_rate": 0.001, "dropout": 0.25, "epoch": 200, "train_error": 0.0071, "window_size": 7}

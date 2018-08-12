@@ -1,0 +1,1 @@
+{"ticker": "NKE", "test_error": 0.0171, "learn_rate": 0.01, "dropout": 0.25, "epoch": 200, "train_error": 0.0063, "window_size": 10}

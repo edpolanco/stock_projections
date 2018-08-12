@@ -1,0 +1,1 @@
+{"ticker": "CAT", "test_error": 0.0081, "learn_rate": 0.001, "dropout": 0.25, "epoch": 200, "train_error": 0.0055, "window_size": 5}

@@ -1,0 +1,1 @@
+{"ticker": "AXP", "test_error": 0.0219, "learn_rate": 0.01, "dropout": 0.4, "epoch": 100, "train_error": 0.0082, "window_size": 7}

@@ -1,0 +1,1 @@
+{"ticker": "CVX", "test_error": 0.0108, "learn_rate": 0.001, "dropout": 0.25, "epoch": 100, "train_error": 0.0088, "window_size": 7}

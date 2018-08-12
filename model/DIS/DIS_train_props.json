@@ -1,0 +1,1 @@
+{"ticker": "DIS", "test_error": 0.0178, "learn_rate": 0.01, "dropout": 0.4, "epoch": 100, "train_error": 0.0215, "window_size": 5}

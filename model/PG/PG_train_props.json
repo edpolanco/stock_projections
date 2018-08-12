@@ -1,0 +1,1 @@
+{"ticker": "PG", "test_error": 0.0175, "learn_rate": 0.01, "dropout": 0.25, "epoch": 200, "train_error": 0.0042, "window_size": 5}

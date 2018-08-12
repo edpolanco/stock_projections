@@ -1,0 +1,1 @@
+{"ticker": "AAPL", "test_error": 0.0301, "learn_rate": 0.01, "dropout": 0.25, "epoch": 100, "train_error": 0.0069, "window_size": 7}

@@ -1,0 +1,1 @@
+{"ticker": "GS", "test_error": 0.0151, "learn_rate": 0.001, "dropout": 0.4, "epoch": 200, "train_error": 0.0122, "window_size": 7}

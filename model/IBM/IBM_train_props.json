@@ -1,0 +1,1 @@
+{"ticker": "IBM", "test_error": 0.0236, "learn_rate": 0.001, "dropout": 0.4, "epoch": 100, "train_error": 0.0175, "window_size": 7}
