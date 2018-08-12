@@ -571,7 +571,6 @@ class MultiSequence(SequenceBase):
         """ Get the target array """ 
         return self.__y
 
-#train 
 def split_data(seq_obj: SequenceBase , split_rate = 0.2):
 
     """

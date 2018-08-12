@@ -28,5 +28,3 @@ Although, our system produced accurate results, it only produces a prediction on
 These are two ways to improve this projection system:
 >    1.	Predict more days in the future such as up to 10 or 15 days.  This can be accomplished by converting our RNN training model to a sequence-to-sequence model from the current sequence-to-prediction model.
 >    2.	 Add more features to the input sequence.  In the `model_selection.ipyjnb` notebook it became evident that using three features produced better results than one feature.  There are many more features than can be explored as possible inputs.
-
-Overall, this project achieved its goals of developing a stock prediction system that makes accurate predictions and provides a basis for creating an expansive trading system.     
